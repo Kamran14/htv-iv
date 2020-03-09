@@ -1,5 +1,17 @@
------------------
+# Train μ
+This software is used to compare two videos of people practicing the same strategy in a sport. One of the videos is a professional athlete while the other is an amateur trying to improve.
+Our software would make skeletons of both people and compare the joints/vectors which would allow us to give feedback to the user on how they can improve their form to become similar to one of an athletes.
 
+## Use
+```
+python3 main.py
+```
+-------
+
+
+
+<br><br><br>
+python
 |                  |`Default Config`  |`CUDA (+Python)`  |`CPU (+Python)`   |`OpenCL (+Python)`| `Debug`          | `Unity`          |
 | :---:            | :---:            | :---:            | :---:            | :---:            | :---:            | :---:            |
 | **`Linux`**   | [![Status](https://travis-matrix-badges.herokuapp.com/repos/CMU-Perceptual-Computing-Lab/openpose/branches/master/1)](https://travis-ci.org/CMU-Perceptual-Computing-Lab/openpose) | [![Status](https://travis-matrix-badges.herokuapp.com/repos/CMU-Perceptual-Computing-Lab/openpose/branches/master/2)](https://travis-ci.org/CMU-Perceptual-Computing-Lab/openpose) | [![Status](https://travis-matrix-badges.herokuapp.com/repos/CMU-Perceptual-Computing-Lab/openpose/branches/master/3)](https://travis-ci.org/CMU-Perceptual-Computing-Lab/openpose) | [![Status](https://travis-matrix-badges.herokuapp.com/repos/CMU-Perceptual-Computing-Lab/openpose/branches/master/4)](https://travis-ci.org/CMU-Perceptual-Computing-Lab/openpose) | [![Status](https://travis-matrix-badges.herokuapp.com/repos/CMU-Perceptual-Computing-Lab/openpose/branches/master/5)](https://travis-ci.org/CMU-Perceptual-Computing-Lab/openpose) | [![Status](https://travis-matrix-badges.herokuapp.com/repos/CMU-Perceptual-Computing-Lab/openpose/branches/master/6)](https://travis-ci.org/CMU-Perceptual-Computing-Lab/openpose) |
